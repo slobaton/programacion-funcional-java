@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5faf18c6-b167-4307-bfaa-542a6a038020" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1dEWVftYR0QNn3VhYYzwm6mSvqK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.App" />
+      <module name="practica alsie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5faf18c6-b167-4307-bfaa-542a6a038020" name="Default Changelist" comment="" />
+      <created>1591990757113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591990757113</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="524" y="169" key="#App" timestamp="1592074311449">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state x="524" y="169" key="#App/0.23.1680.962@0.23.1680.962" timestamp="1592074311449" />
+    <state width="1638" height="226" key="GridCell.Tab.0.bottom" timestamp="1592074228608">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state width="1638" height="226" key="GridCell.Tab.0.bottom/0.23.1680.962@0.23.1680.962" timestamp="1592074228608" />
+    <state width="1638" height="226" key="GridCell.Tab.0.center" timestamp="1592074228607">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state width="1638" height="226" key="GridCell.Tab.0.center/0.23.1680.962@0.23.1680.962" timestamp="1592074228607" />
+    <state width="1638" height="226" key="GridCell.Tab.0.left" timestamp="1592074228606">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state width="1638" height="226" key="GridCell.Tab.0.left/0.23.1680.962@0.23.1680.962" timestamp="1592074228606" />
+    <state width="1638" height="226" key="GridCell.Tab.0.right" timestamp="1592074228607">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state width="1638" height="226" key="GridCell.Tab.0.right/0.23.1680.962@0.23.1680.962" timestamp="1592074228607" />
+    <state x="519" y="336" key="com.intellij.ide.util.TipDialog" timestamp="1592074130551">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state x="519" y="336" key="com.intellij.ide.util.TipDialog/0.23.1680.962@0.23.1680.962" timestamp="1592074130551" />
+  </component>
+</project>
